@@ -9,4 +9,13 @@ Requirements:
 - Pandas
 - Sckit-learn
 - Matplotlib (or any other visualization library that you like)
-- 
+
+
+
+Fix certificate SSL problem in python in MacOS Catalina
+---------------------------------------------------------
+
+```sh
+/Applications/Python\ 3.7/Install\ Certificates.command
+```
+
